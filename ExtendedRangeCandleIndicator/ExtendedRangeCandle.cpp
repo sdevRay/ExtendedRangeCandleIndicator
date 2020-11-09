@@ -21,7 +21,7 @@ ERCdown1, ERCdown2, ERCdown3, ERCdown4;
 EXPORT void __stdcall Init()
 {
 	// define properties
-	IndicatorShortName("Extended Range Candle indicator");
+	IndicatorShortName("Extended Range Candle");
 	SetOutputWindow(ow_ChartWindow);
 	SetEmptyValue(-1);
 
